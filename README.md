@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agungramananda
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend web
-- 📫 How to reach me contact ig @agung.ramananda
+- 📫 How to reach me contact agungramananda@gmail.com
 - 😄 Pronouns: He/His
 
 <!---

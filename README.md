@@ -7,8 +7,6 @@ I am a computer science student with interest in Software Development. I current
 - 🌱 I’m currently learning backend
 - 📫 How to reach me contact agungramananda@gmail.com
 - 😄 Pronouns: He/His
-- 📫 How to reach me contact agungramananda@gmail.com
-- 😄 Pronouns: He/His
 
 ## Technologies & Tools
 - Javascipt
